@@ -1,0 +1,4 @@
+ad_id,campaign,platform,impressions,clicks,spend,currency,date
+AD001,CampaignA,GoogleAds,120000,4500,15000,ZAR,2022-06-01
+AD002,CampaignB,Facebook,80000,3200,9000,ZAR,2022-06-02
+AD003,CampaignC,Salesforce,60000,2800,7000,ZAR,2022-06-03
