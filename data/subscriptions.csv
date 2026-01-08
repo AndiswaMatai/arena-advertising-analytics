@@ -1,0 +1,4 @@
+sub_id,channel,start_date,end_date,status
+SUB001,Web,2022-01-01,2022-12-31,ACTIVE
+SUB002,Mobile,2022-02-01,2022-09-30,CANCELLED
+SUB003,Web,2022-03-01,2022-12-31,ACTIVE
